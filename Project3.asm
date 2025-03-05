@@ -5,9 +5,6 @@ Write a program that contain the following:
 2.	Write code that defines symbolic constants for all seven days of the week. Create an array variable that uses the symbols as initializers
 3.	The program must contain a definition of each data type listed in Table 3.2 in Section 3.4 of the textbook. Initialize each variable to a value that is consistent with its data type
 4.	Write code defines symbolic names for several string literals. Use each symbolic name in a variable definition
-
-Name: Monyvann Men
-Date: 2/22/2025
 *
 
 
