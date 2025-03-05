@@ -8,9 +8,6 @@ Write a C/C++ program that simulate a menu based binary number calculator. This 
 5.	Provide two’s complement for a binary nunber
 */
 
-//  Monyvann Men
-//  02/03/2025
-
 #include <iostream>
 #include <string>
 #include <cassert>
