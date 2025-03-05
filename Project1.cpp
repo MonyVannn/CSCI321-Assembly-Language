@@ -5,9 +5,6 @@
 3.	Add two binary numbers, both numbers are represented as a string of 0s and 1s
 */
 
-// Men Monyvann
-// 01/27/2025
-
 #include <iostream>
 #include <string>
 #include <cassert>
