@@ -4,9 +4,6 @@ Write a program with a loop and indirect address that copies a string from sourc
 source BYTE “This is the string that will be reversed”, 0
 target BYTE SIZEOF source DUP(‘#’)
 You may refer to the Programming Exercise #7 on Page 138 of the textbook.
-
-Name: Monyvann Men
-Date: 03/04/2025
 *
 
 
